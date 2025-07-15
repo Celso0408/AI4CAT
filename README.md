@@ -1,7 +1,3 @@
-Here is a detailed `README.md` documentation for your GitHub repository containing the notebook `bo_closed_loop.ipynb`. This explanation includes dependencies, project structure, and mathematical background behind the Bayesian Optimization (BO) loop:
-
----
-
 # Closed-Loop Bayesian Optimization for Catalyst Design
 
 This repository implements a **closed-loop Bayesian Optimization (BO)** framework for catalyst discovery. It uses Gaussian Process (GP) surrogate models and acquisition strategies to iteratively suggest new candidates and simulate their performance. The objective is to optimize a multi-KPI **Merit function** under **feasibility constraints** derived from chemical design rules.
