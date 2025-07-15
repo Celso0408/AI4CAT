@@ -154,14 +154,6 @@ for g in range(1, 6):
 
 ---
 
-## 🧠 Future Work
-
-* Add **multi-objective Pareto front analysis**
-* Use **Thompson Sampling** or **UCB** as acquisition
-* Integrate with real lab hardware for autonomous discovery
-
----
-
 ## 📜 License
 
 This repository is open-source and distributed under the MIT License.
